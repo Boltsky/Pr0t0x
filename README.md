@@ -63,8 +63,8 @@ python Pr0t0x.py
 
 1. **Protocol Selection**: Choose from supported protocols
 2. **Target Configuration**: Set target host and port
-3. **Wordlist Management**: Download or use custom wordlists
-4. **Attack Configuration**: Set threading and timing options
+3. **Wordlist Management**: Download or import custom wordlists
+4. **Threading attack**: Threading attacking for faster results
 5. **Results Tracking**: Monitor progress and successful attempts
 
 ## Security Notice
