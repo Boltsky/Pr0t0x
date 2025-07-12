@@ -27,7 +27,7 @@ A powerful, multithreaded protocol brute force tool with advanced features for s
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Pr0t0x.git
+git clone https://github.com/Boltsky/Pr0t0x.git
 cd Pr0t0x
 ```
 
